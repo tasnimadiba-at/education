@@ -1,0 +1,259 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+/*header*/
+
+.btn_head {
+    margin-top: 20px;
+}
+/*banner*/
+.ban_h1 {
+    font-size: 35px;
+}
+.ban_p {
+    line-height: 30px;
+    
+}
+/*department*/
+.department {
+    margin-bottom: -25px;
+}
+.dep_h2 {
+    font-size: 35px;
+}
+.single {
+    margin: 0 0 50px;
+}
+.s_h2 {
+    font-size: 25px;
+}
+
+
+/*about*/
+.a_text {
+   
+    width: 185%;
+}
+.a_h2 {
+    font-size: 35px;
+
+}
+.a_feature {
+    margin-bottom: 45px;
+    margin-right: -140px;
+}
+.a_feature h2 {
+    font-size: 32px;
+    font-weight: 700;
+}
+/*university*/
+.u_text h2 {
+    font-size: 35px;
+}
+.uni_con {
+    width: 263px;
+
+}
+/*footer*/
+.ft_logo {
+    margin: 70px 0px 30px 25px;
+}
+.ft_text {
+    padding-right: 30px;
+    margin-left: 20px;
+}
+.ft_icon {
+    margin-left: 45px;
+}
+.ft_text p {
+
+    font-size: 14px;
+}
+.margin{
+	
+	margin-bottom: 45px;
+}
+.ft_btn {
+    margin: -45px 0px 0px 210px;
+    width: 94%;
+}
+.ft_feat {
+	font-size: 15px;
+    margin-top: 35px;
+    margin-left: 10px;
+    width: 172%;
+}
+.f_form {
+    margin-left: -5px;
+}
+/*footer bottom*/
+.ft_bp {
+    margin-top: -10px;
+    text-align: center;
+}
+.ft_blinks {
+    margin: 15px 0px 15px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+/*header*/
+
+.btn_head {
+    margin-top: 20px;
+}
+/*banner*/
+.ban_h1 {
+    font-size: 40px;
+}
+.ban_p {
+    line-height: 30px;
+    
+}
+/*department*/
+.department {
+    margin-bottom: -25px;
+}
+.single {
+    margin: 0 0 50px;
+}
+/*about*/
+.a_text {
+   
+    width: 180%;
+}
+.a_feature {
+	margin-bottom: 45px;
+    margin-right: -255px;
+}
+/*university*/
+.uni_con {
+    width: 245px;
+
+}
+/*footer*/
+.margin{
+	margin-left: 70px;
+	margin-bottom: 45px;
+}
+.ft_btn {
+    margin: -45px 0px 0px 208px;
+}
+.ft_feat {
+    margin-top: 70px;
+    margin-left: -76px;
+}
+.f_form {
+    margin-left: -75px;
+    
+}
+/*footer bottom*/
+.ft_bp {
+    margin-top: -20px;
+    text-align: center;
+}
+.ft_blinks {
+    margin: 15px -50px;
+}
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+/*header*/
+
+.btn_head {
+    margin-top: 20px;
+}
+/*department*/
+.department {
+    margin-bottom: -25px;
+}
+.single {
+    margin: 0 0 50px;
+}
+
+/*about*/
+.about {
+    margin-bottom: 40px;
+}
+.a_text {
+    
+    width: 205%;
+}
+
+
+/*footer*/
+.ft_hr {
+    width: 200px;
+}
+.margin {
+    margin-left: 55px;
+    margin-bottom: 45px;
+}
+/*footer bottom*/
+
+.ft_bp {
+    margin-top: -20px;
+    text-align: center;
+}
+.ft_blinks {
+    margin: 15px -140px;
+}
+
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+/*header*/
+
+.menu ul li {
+    margin-right: 15px;
+}
+/* university*/
+.u_img {
+    width: 121%;
+}
+.padding {
+    padding-bottom: 30px;
+    margin-left: 60px;
+}
+
+/*footer*/
+.ft_text {
+    padding-right: 70px;
+}
+.ft_hr {
+    width: 200px;
+}
+.ft_feat p {
+    padding-right: 45px;
+}
+.f_email {
+    width: 190px;
+}
+
+.ft_btn {
+    margin: -45px 0px 0px 178px;
+}
+ }
+
+/* Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { ... }
+
+/* Extra Extra large devices (extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) { ... }
